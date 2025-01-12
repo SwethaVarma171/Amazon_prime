@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Amazon Ember, Amazon Arabic Ember, Arial, sans-serif !important;
+   
+
+}
+#nav{
+    height: 10vh;
+    width: 100%;
+    background-color: #202020;
+    /* border: 2px solid; */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid; */
+    font-size: 15px;
+
+}
+.navol{
+    /* border: 2px solid; */
+    width: 100%;
+    display: flex;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ol1{
+width: 50%;
+}
+.ol2{
+    width: 30%;
+}
+#Join{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+}
